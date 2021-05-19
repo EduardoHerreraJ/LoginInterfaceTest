@@ -1,0 +1,23 @@
+{
+  "name": "LoginInterfaceTest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EduardoHerreraJ/LoginInterfaceTest.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EduardoHerreraJ/LoginInterfaceTest/issues"
+  },
+  "homepage": "https://github.com/EduardoHerreraJ/LoginInterfaceTest#readme",
+  "devDependencies": {
+    "cypress": "^7.3.0"
+  }
+}
